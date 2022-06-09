@@ -1,2 +1,2 @@
-# jhonny-gitj-test
+# jhonny-git-test
 Repo untuk mencoba git remote
